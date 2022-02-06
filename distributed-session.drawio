@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-06T11:48:49.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.1.0" etag="8XpCm3UkbKxYnVXvMxM_" type="github"><diagram id="jMBZyljPG5TyPv1eNTwJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-06T12:07:33.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="mF4hvxbbcV-5gKen2Yor" version="16.1.0" type="github">
+  <diagram id="jMBZyljPG5TyPv1eNTwJ" name="第 1 页">
+    <mxGraphModel dx="1142" dy="797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BCcZUGyxbrMrx57hu800-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="319" y="95" width="559" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-1" value="&lt;font style=&quot;font-size: 26px&quot; color=&quot;#ffffff&quot;&gt;NGINX HTTP PROXY&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry y="176" width="556" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=26;fontColor=#FFFFFF;dashed=1;strokeColor=#FFFFFF;fillColor=#000000;strokeWidth=2;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="2" y="308" width="557" height="262" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-4" value="&lt;font color=&quot;#ffffff&quot;&gt;WEB&lt;br&gt;NODE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=26;strokeColor=none;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="50" y="339" width="123" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-7" value="&lt;font color=&quot;#ffffff&quot;&gt;WEB&lt;br&gt;NODE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=26;strokeColor=none;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="226" y="339" width="123" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-8" value="&lt;font color=&quot;#ffffff&quot;&gt;WEB&lt;br&gt;NODE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=26;strokeColor=none;strokeWidth=2;fillColor=#ffcd28;gradientColor=#ffa500;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="395" y="339" width="123" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;" edge="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89" y="316" as="sourcePoint" />
+            <mxPoint x="89" y="253" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="89" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="136" y="297" as="sourcePoint" />
+            <mxPoint x="136" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="297" as="sourcePoint" />
+            <mxPoint x="408" y="247" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-12" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;hiragino sans gb w3&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;Load balancing&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;fontColor=#FFFFFF;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="184" y="254" width="175" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2189/48/17-Google_chrome-128.png;dashed=1;fontSize=24;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#000000;" vertex="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry x="230.5" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=26;fontColor=#FFFFFF;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="BCcZUGyxbrMrx57hu800-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277.5" y="158" as="sourcePoint" />
+            <mxPoint x="277.5" y="108" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=24;fontColor=#FFFFFF;strokeColor=#FFFFFF;strokeWidth=2;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="275" y="407" width="20" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="BCcZUGyxbrMrx57hu800-17" value="Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="180" y="518" width="86" height="33" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
