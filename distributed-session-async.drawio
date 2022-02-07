@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T08:50:29.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.3" etag="pruh-pukIMvXqn0h2aib" type="github"><diagram id="P-xcavvmGoS5aV6fVEi-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-07T09:02:48.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="GPd4slM1nNXFEsFEVd1i" version="16.5.3" type="github">
+  <diagram id="P-xcavvmGoS5aV6fVEi-" name="第 1 页">
+    <mxGraphModel dx="1236" dy="797" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#b85450;dashed=1;strokeWidth=2;fillColor=none;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="214" y="508" width="737" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;strokeColor=#d79b00;dashed=1;strokeWidth=2;fillColor=none;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="216" y="190" width="737" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-2" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752" y="126" as="sourcePoint" />
+            <mxPoint x="752" y="831" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="fPJrYYPKDwa4_QENTLlH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="737" y="246.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2189/48/17-Google_chrome-128.png" vertex="1" parent="1">
+          <mxGeometry x="253" y="202" width="89" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="fPJrYYPKDwa4_QENTLlH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="736" y="396" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/browsers/Firefox.png" vertex="1" parent="1">
+          <mxGeometry x="253" y="351" width="91.5" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="769" y="244" width="20" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-9" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px&quot;&gt;the same data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="802" y="310.5" width="130" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-11" value="Session Server Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="651" y="87" width="211" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;strokeWidth=2;dashed=1;" edge="1" parent="1" source="fPJrYYPKDwa4_QENTLlH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="734" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2189/48/17-Google_chrome-128.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="89" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="fPJrYYPKDwa4_QENTLlH-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="733" y="714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/browsers/Firefox.png" vertex="1" parent="1">
+          <mxGeometry x="250" y="669" width="91.5" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="766" y="562" width="20" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-17" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 19px&quot;&gt;data ？？？&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="628.5" width="109" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-19" value="Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="472" y="307.5" width="81" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-20" value="Request Set Age = 22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="418" y="525" width="195" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="fPJrYYPKDwa4_QENTLlH-21" value="Request Set Age = 21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="413" y="675" width="195" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
