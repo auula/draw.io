@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T11:45:17.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" version="17.0.0" etag="BjLpSnDK9akrYBYR1Iu2" type="github"><diagram id="Ipybm4bZVhF1xYTs2olM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-18T13:21:29.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="TlAbdEqGyxw9821-7wVp" version="17.0.0" type="github">
+  <diagram id="Ipybm4bZVhF1xYTs2olM" name="第 1 页">
+    <mxGraphModel dx="816" dy="687" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#FFFFFF;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218" y="121" width="559" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-2" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ffffff&quot;&gt;Json Patch Protocol&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="243" y="245" width="504" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-6" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Socket Monitor&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="243" y="147" width="504" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=24;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="121" width="20" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-9" value="&lt;font color=&quot;#000000&quot;&gt;接入层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="92" y="210" width="82" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#FFFFFF;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="218" y="471" width="559" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-12" value="&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Data Structure&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="245.5" y="496" width="504" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;Storage&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="243" y="589" width="504" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-15" value="&lt;font style=&quot;font-size: 27px&quot;&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;hiragino sans gb w3&amp;#34; , &amp;#34;microsoft yahei ui&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , sans-serif&quot;&gt;Task Dispatch (PUT/GET/UPDATE/DELETE)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="374" width="556" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=27;fontColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="785" y="472" width="20" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="fzm34_u6NKJRJhYVVtOK-20" value="&lt;font color=&quot;#000000&quot;&gt;持久化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=27;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="805" y="553" width="91" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
