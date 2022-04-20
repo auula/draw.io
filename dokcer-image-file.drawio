@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T07:34:23.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" version="17.4.5" etag="7C1EIL-A6aBVetw893--" type="github"><diagram id="eYJDZu7G4YjsgzBPFgp0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-20T07:37:37.226Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="DsEEoGOVuKzRr_ElS6Ee" version="17.4.5" type="github">
+  <diagram id="eYJDZu7G4YjsgzBPFgp0" name="第 1 页">
+    <mxGraphModel dx="1162" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OnDpfq9selssHRQg3-su-1" value="&lt;font style=&quot;font-size: 38px&quot; color=&quot;#ffffff&quot;&gt;BootFS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="320" y="510" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OnDpfq9selssHRQg3-su-2" value="&lt;font style=&quot;font-size: 38px&quot; color=&quot;#ffffff&quot;&gt;RootFS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="420" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
