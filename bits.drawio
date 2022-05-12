@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T12:36:58.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="5Pkxb6cJumzfCUv4vCkN" type="github"><diagram id="ZfS0Ss1WtfdeVAfNvs45">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-12T12:48:54.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="q51hiJoOK5FzhIpzy-qT" version="18.0.2" type="github">
+  <diagram id="ZfS0Ss1WtfdeVAfNvs45" name="第 1 页">
+    <mxGraphModel dx="1033" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Evek4QE-1pQtexToU433-1" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-2" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-3" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-4" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-5" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-6" value="&lt;span style=&quot;font-size: 42px;&quot;&gt;0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="480" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-7" value="&lt;font style=&quot;font-size: 42px;&quot;&gt;1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="560" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-8" value="&lt;span style=&quot;font-size: 42px;&quot;&gt;0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="640" y="230" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-9" value="128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="75" y="170" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-10" value="64" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-11" value="32" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="250" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-12" value="16" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="332" y="170" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-13" value="8&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22128%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3Bautosize%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3BfontSize%3D42%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2275%22%20y%3D%22170%22%20width%3D%2290%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="420" y="165" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-15" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="498" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-16" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="657" y="170" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=42;rotation=-90;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="20" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-19" value="128 + 64 + 32 + 16 + 8 + 0 + 2 + 0 = 250" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="15" y="350" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.557;entryY=-0.073;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=42;strokeWidth=2;" edge="1" parent="1" source="Evek4QE-1pQtexToU433-20" target="Evek4QE-1pQtexToU433-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-20" value="1*2^0" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=42;strokeWidth=2;" edge="1" parent="1" source="Evek4QE-1pQtexToU433-22" target="Evek4QE-1pQtexToU433-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-22" value="1*2^1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Evek4QE-1pQtexToU433-24" value="&lt;font color=&quot;#ff8000&quot;&gt;1*2^0 ~ 1*2^8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="280" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
