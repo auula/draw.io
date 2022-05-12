@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T12:48:54.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="q51hiJoOK5FzhIpzy-qT" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T12:50:48.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Hslw1bAxlPJhUCIBRWZa" version="18.0.2" type="github">
   <diagram id="ZfS0Ss1WtfdeVAfNvs45" name="第 1 页">
     <mxGraphModel dx="1033" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
         <mxCell id="Evek4QE-1pQtexToU433-22" value="1*2^1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Evek4QE-1pQtexToU433-24" value="&lt;font color=&quot;#ff8000&quot;&gt;1*2^0 ~ 1*2^8&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
-          <mxGeometry x="170" y="80" width="280" height="60" as="geometry" />
+        <mxCell id="Evek4QE-1pQtexToU433-24" value="&lt;font color=&quot;#ff8000&quot;&gt;1*2^0 ~ 1*2^8-1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=42;" vertex="1" parent="1">
+          <mxGeometry x="155" y="80" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
