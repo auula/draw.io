@@ -1,1 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T15:42:02.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="18.1.3" etag="7fpTzwVo-kDo5VLqzmjX" type="github"><diagram id="_YK2pMX8JOVMCty5tgR4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T15:52:30.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oCnnptiVEbYuBaXVPdDl" version="18.1.3" type="github">
+  <diagram id="_YK2pMX8JOVMCty5tgR4" name="第 1 页">
+    <mxGraphModel dx="937" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-3" value="" style="group;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="280" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="GnqBajGqCkEH-8UM1Dhh-3">
+          <mxGeometry width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-2" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Program&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;shadow=0;" vertex="1" parent="GnqBajGqCkEH-8UM1Dhh-3">
+          <mxGeometry x="37.5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-fill-vol-2/256/cpu-fill-128.png;fontSize=16;strokeColor=default;strokeWidth=2;fillColor=default;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="265" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;strokeWidth=2;sketch=1;" edge="1" parent="1" source="GnqBajGqCkEH-8UM1Dhh-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=16;strokeColor=default;strokeWidth=2;fillColor=default;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="132.5" width="20" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-9" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Create State&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-12" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Ready State&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-13" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Running State&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-14" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Block State&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-15" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;Stop State&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;strokeWidth=4;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="447.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=21;strokeWidth=2;sketch=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="126.5" as="sourcePoint" />
+            <mxPoint x="640" y="489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GnqBajGqCkEH-8UM1Dhh-17" value="Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
