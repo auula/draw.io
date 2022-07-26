@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:29:15.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="ZFEgmTmMcLcRy4n5brjz" type="github"><diagram id="QpskN_IqFvLioJpuMTE-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T13:35:08.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pwX4ZSKPVcncUXcGiXd8" version="20.0.3" type="github">
+  <diagram id="QpskN_IqFvLioJpuMTE-" name="第 1 页">
+    <mxGraphModel dx="1068" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/social-media-2182/512/android__mobile__os__social__media__social_media__-128.png" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="420" as="sourcePoint" />
+            <mxPoint x="580" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.amazon" vertex="1" parent="1">
+          <mxGeometry x="680" y="414.2" width="62.800000000000004" height="68.2" as="geometry" />
+        </mxCell>
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="U5rM4YJxCGuenhQHDrRC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-10" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.paypal" vertex="1" parent="1">
+          <mxGeometry x="360" y="414.2" width="51.2" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="U5rM4YJxCGuenhQHDrRC-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="442.7" as="sourcePoint" />
+            <mxPoint x="670" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
