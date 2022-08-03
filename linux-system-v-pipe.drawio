@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T06:59:51.030Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="H6xLAtYiajF6V030SetX" version="20.2.2" type="github"><diagram id="SjoBwwhVYQaIT-0i_oXB" name="第 1 页">7Vhdb5swFP01PFYymAB5TEi7TVulTqmWvbrggFWDmTEN6a/fNZgEiqolWtZEyiJFmHOvrz/OudcWFg6z+pMkRXovYsotB8W1hReW49i2H8BDI9sW8ad+CySSxcZpDyzZKzUgMmjFYloOHJUQXLFiCEYiz2mkBhiRUmyGbmvBh6MWJKEjYBkRPkZXLFZpty5vujd8pixJu6G9idtaMtJ5m6WUKYnFpgfhWwuHUgjVtrI6pFzvXrcxbb+7d6y7mUmaq0M6PAr0mGQ/VzW9f90+r1auSuobE+WF8Mqs2HI8DvHmT9BIdKMD1gLGgWWordkc71clOsNN2VA3Awc7KOq2m7F3gR6kiGhZgsvdQvt1gWHKbezheAD35uAMhnakqPKY6pXZYN6kTNFlQSJt3YASAUtVxo15zTgPBRey6Ys9RKa2bybew9fND/BSSfFMexZn4XsI7ebxQqWi9bs02DtyIS2oyKiSW3AxHTwjB5MQGJn3TU9enU/aU1aHEaPoZBd5zzk0DO1HSMA5nwScs0mAINRQfbAEsI9QGJ5GApenAfxnDXylMm+K+wMrKDzm1XpNJVhJpvc6fyqL45lDBzAHDJlzwQ7GTMYBQj4+hsnZBCH3HyVzMCYSfyiR07Mk8+w6S7kbXFoed9emD+Z/fp113Ls8/g+4z+0K+ZIlOdGNEBhQTS2/pto9yt6zF2/7PFexK63eU3Rx2XvANex/9T5V9bbtyxOAe0T5vidlqb9eOOh7RcH9uqr3KHvPX72D02ev67yTvd9YXtX6DN+WimbQ+AH/Lw/h36QykKGGCiAcrgjQjmhzP8BzTRmLCJ8ZQ8biWHefSwqTJk9NKM1wIViumh2ezK3JQseqlCiNmkbiyEVO3yisg96I8BQHP/YH0rEnY+m4zmmkA6/7L3yNrfehFN/+Bg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-03T07:04:29.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_gHa9xgCZFqiRUKfFStW" version="20.2.2" type="github">
+  <diagram id="SjoBwwhVYQaIT-0i_oXB" name="第 1 页">
+    <mxGraphModel dx="1178" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="To0TgmXWxeMzykWW4tgx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process FD 1&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="60" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process FD 2&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="260" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-3" value="&lt;b&gt;Kernel Pipe Buffer&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process A&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="480" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process B&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="680" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-11" value="&lt;b&gt;Kernel Signal Counter&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="480" y="380" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process A&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="900" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Process B&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-14" value="&lt;b&gt;Kernel Massage Queue&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="900" y="380" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="To0TgmXWxeMzykWW4tgx-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 42px;&quot;&gt;Linux System V IPC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="180" width="420" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
