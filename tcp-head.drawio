@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T12:47:16.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.0" etag="YIXYZ5baFnF8V9IrdH7O" type="github"><diagram id="lV-kS_dRZmRdEYUAwAX7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-24T12:52:58.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hOyBRO4BIbc6DcWCbiuG" version="20.2.0" type="github">
+  <diagram id="lV-kS_dRZmRdEYUAwAX7" name="第 1 页">
+    <mxGraphModel dx="908" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-1" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;以太网和IP控制信息&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-3" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;TCP控制信息&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-4" value="&lt;font size=&quot;1&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Data&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontColor=#FFFFFF;strokeWidth=2;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=24;fontColor=#000000;strokeWidth=2;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="230" y="240" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-6" value="每个数据包都有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="145" y="380" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=24;fontColor=#000000;strokeWidth=2;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="500.25" y="112.75" width="20" height="298.5" as="geometry" />
+        </mxCell>
+        <mxCell id="t3qlyX2xWD6jDbSOIZl1-8" value="TCP状态转换时数据部可不需要" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="330.25" y="201" width="360" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
