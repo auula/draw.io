@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T04:21:55.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NPGmAFk38gP4zR1jlpPq" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-08T04:42:51.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="t35_taN3CosFSnq0lfKg" version="20.3.0" type="github">
   <diagram id="Rq4ajxYLPpFM6kEdG1-p" name="第 1 页">
     <mxGraphModel dx="2144" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="Tbavl_EoWam0O7su7ffe-12" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;immuTable&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="225" y="366" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tbavl_EoWam0O7su7ffe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shadow=1;dashed=1;strokeColor=#FF0000;strokeWidth=2;fontSize=18;fontColor=#3333FF;" edge="1" parent="1" source="Tbavl_EoWam0O7su7ffe-13" target="Tbavl_EoWam0O7su7ffe-28">
+        <mxCell id="Tbavl_EoWam0O7su7ffe-80" style="rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=1;dashed=1;strokeColor=#FF0000;strokeWidth=2;fontSize=18;fontColor=#3333FF;exitX=1.025;exitY=0.407;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Tbavl_EoWam0O7su7ffe-13" target="Tbavl_EoWam0O7su7ffe-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Tbavl_EoWam0O7su7ffe-13" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Bloom Filter&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
@@ -177,8 +177,8 @@
         <mxCell id="Tbavl_EoWam0O7su7ffe-79" value="&lt;b&gt;Write Data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;rotation=-20;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Tbavl_EoWam0O7su7ffe-81" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Read&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;" vertex="1" parent="1">
-          <mxGeometry x="475" y="550" width="70" height="40" as="geometry" />
+        <mxCell id="Tbavl_EoWam0O7su7ffe-81" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;Read&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#3333FF;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="490" y="471" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
