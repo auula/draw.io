@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T08:53:39.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="ejzt839v4fEGa4xf8dPB" type="github"><diagram id="Y1MNCg0f-JD70woYt6Eh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T08:57:44.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="mSi5ZxCFaLaDdZLc6zgs" type="github">
+  <diagram id="8E8K8SAzJTcxabnhx9FE" name="第 1 页">
+    <mxGraphModel dx="1183" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="442.5" as="sourcePoint" />
+            <mxPoint x="660" y="442.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=22;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="342.5" as="sourcePoint" />
+            <mxPoint x="660" y="342.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Heap Area&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="290" y="313" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Method Area&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="290" y="413" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ2qs8BOucZ2UuDRDxHz-7" value="&lt;b&gt;Data Area&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="352" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
