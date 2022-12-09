@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:03:26.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="khS1ohZNE2UNb_qtdtkS" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:09:08.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vrv5yB2DM-KILg_TrENu" version="20.6.2" type="github">
   <diagram id="8E8K8SAzJTcxabnhx9FE" name="第 1 页">
     <mxGraphModel dx="1183" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="JZ2qs8BOucZ2UuDRDxHz-7" value="&lt;b&gt;Data Area&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=2;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="352" y="250" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="echMy0fta9CoyD65nAfY-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Person&amp;nbsp; p = new Person();&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="232" y="150" width="370" height="50" as="geometry" />
+        <mxCell id="echMy0fta9CoyD65nAfY-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Person&amp;nbsp; p = new Person(&quot;Leon&quot;,22);&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="167" y="150" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="echMy0fta9CoyD65nAfY-3" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=28;strokeWidth=2;" edge="1" parent="1" source="echMy0fta9CoyD65nAfY-2" target="JZ2qs8BOucZ2UuDRDxHz-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -49,6 +49,15 @@
               <mxPoint x="210" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="echMy0fta9CoyD65nAfY-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="252" y="261" width="38" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="echMy0fta9CoyD65nAfY-6" value="&lt;b&gt;Thread&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="8" y="368" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="echMy0fta9CoyD65nAfY-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=28;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="123" y="343" width="20" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
